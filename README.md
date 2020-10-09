@@ -7,3 +7,5 @@ Updated by Erik Haug 09.10.2020
 Feel free to add ideas and mark taken ideas as "done".»
 
 Utdrag fra: By Chris Belanger. «Mastering Git.» Apple Books. 
+
+Contact: support@razeware.com
